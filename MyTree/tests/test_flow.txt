@@ -1,0 +1,9 @@
+#Nodes which represents workFlow Stages. Lines starting with hash are ignored
+tim,sleeps,soundly
+tim,sleeps,process,load1,load2,load4
+tim,sleeps,process2,load3,load2,load4
+tim,sleeps,badly
+twitter,strip,twitter_upload
+facebook,strip,facebook_upload
+backup_db1,compress_db1,ftp,copy_to_tape
+backup_db2,compress_db2,ftp,copy_to_tape

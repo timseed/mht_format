@@ -1,0 +1,5 @@
+#Pic Upload Workflow. Deliberatly using a shared flow and a seperate flow
+camera,take_camera_pic,load_to_pc,upload_to_fb
+phone,take_phone_pic,load_to_pc,upload_to_fb
+video,take_video_pic,upload_to_iTunes
+hamed,drive,home,baby,programming,sleep
